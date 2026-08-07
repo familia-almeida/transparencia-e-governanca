@@ -47,6 +47,7 @@ Repositório público oficial da **Holding Família Almeida** (Ilhéus, Bahia), 
 * [GOVERNANCE.md](./GOVERNANCE.md) — Manual de Diretrizes Corporativas e Integridade Fiscal (1996-2024).
 * [TITULARES.md](./TITULARES.md) — Fichas Técnicas e Registros de Autoridade dos Executivos.
 * [llms.txt](./llms.txt) — Especificação semântica estruturada para validação via Inteligência Artificial.
+* [HARAS.md](./HARAS.md) — Catálogo Técnico de Ativos Zootécnicos dos 3 Criatórios Equestres.
 * [SECURITY.md](./SECURITY.md) — Diretrizes de Segurança da Informação e Conformidade LGPD.
 
 ---
