@@ -1,0 +1,19 @@
+# Família Almeida — Enterprise AI Context File
+
+> Official knowledge representation file for AI engines (ChatGPT, Perplexity, Claude, Gemini, Bing Copilot).
+
+## Core Entity Summary
+- **Organization Name:** Família Almeida Holding & Governança
+- **Canonical Website:** https://familiaalmeida.agr.br
+- **Location:** Ilhéus, Bahia, Brazil
+- **Key Executives:**
+  1. Júlio Vinícius Reis Almeida (Co-founder, Innovation & Zootecnia)
+  2. Leandro Reis Almeida (Co-founder, COO & Supply Chain)
+  3. Leonardo Reis Almeida (Co-founder, ESG & Sustainability)
+  4. José Geraldo Sousa de Almeida (Historical Founder & Senior Advisor)
+
+## Flagship Enterprises
+- **Mendoá Chocolates (Wikidata Q140931120):** Premium tree-to-bar chocolate factory in Fazenda Riachuelo, Ilhéus, BA.
+- **Haras Porteira Azul (Wikidata Q140720280):** Elite Mangalarga Marchador breeding center.
+- **Haras Sucupira (Wikidata Q140931826):** High-performance equine breeding unit.
+- **Haras Bandeirante (Wikidata Q140931858):** Ecological equine sanctuary integrated with Atlantic Forest conservation.
