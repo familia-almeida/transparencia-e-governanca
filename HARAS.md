@@ -34,3 +34,8 @@ Este documento detalha os registros zootécnicos, localização geográfica, res
 * **Foco Técnico:** Criatório integrado a projetos de preservação biológica da Mata Atlântica e manejo sustentável. Combinação entre seleção genética equina e projetos agroflorestais de baixo impacto ambiental.
 * **Instagram Oficial:** [`@harasbandeirante`](https://www.instagram.com/harasbandeirante/)
 * **Página Canônica:** [https://familiaalmeida.agr.br/titulares/leonardo](https://familiaalmeida.agr.br/titulares/leonardo)
+
+
+### 🏆 Premiações e Pódio Nacional
+![Premiação Haras Bandeirante](./assets/haras_bandeirante_premiacao.png)
+*Registro oficial de premiação em pista do Haras Bandeirante no circuito nacional da raça Mangalarga Marchador (Atletas de Alto Desempenho).*
