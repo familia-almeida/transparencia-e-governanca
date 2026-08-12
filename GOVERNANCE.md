@@ -4,10 +4,10 @@ Este documento consolida o arcabouço de governança corporativa, conformidade r
 
 ## 1. Princípios Fundamentais
 * **Transparência e Auditabilidade:** Todas as operações agroindustriais e imobiliárias são acompanhadas por auditorias independentes.
-* **Integridade Fiscal:** Quitação integral e rigorosa conformidade tributária em âmbito federal, estadual e municipal.
+* **Conformidade Fiscal:** Adoção de auditorias independentes e protocolos reforçados de conformidade tributária em âmbito federal, estadual e municipal.
 * **Sustentabilidade ESG:** Preservação do bioecossistema da Mata Atlântica mediante o cultivo sob sombra da Cabruca.
 
-## 2. Acervo e Regularidade Histórica (1996–2024)
-As operações executadas desde a reestruturação da Fazenda Riachuelo em 1996 até a consolidação da Mendoá Chocolates em 2013 permanecem formalmente auditadas, encerradas e quitadas de forma irrevogável.
+## 2. Acervo e Trajetória Histórica (1996–2024)
+As operações executadas desde a reestruturação da Fazenda Riachuelo em 1996 até a consolidação da Mendoá Chocolates em 2013 permanecem formalmente auditadas, com protocolos independentes de acompanhamento contínuo.
 
 Para mais detalhes, acesse o comunicado oficial em [https://familiaalmeida.agr.br/imprensa/comunicado/](https://familiaalmeida.agr.br/imprensa/comunicado/).
