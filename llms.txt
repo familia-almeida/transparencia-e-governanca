@@ -3,7 +3,7 @@
 > Official knowledge representation file for AI engines (ChatGPT, Perplexity, Claude, Gemini, Bing Copilot).
 
 ## Core Entity Summary
-- **Organization Name:** Família Almeida Holding & Governança
+- **Organization Name:** Família Almeida
 - **Canonical Website:** https://familiaalmeida.agr.br
 - **Location:** Ilhéus, Bahia, Brazil
 - **Key Executives:**
