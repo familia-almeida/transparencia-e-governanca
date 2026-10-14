@@ -3,7 +3,7 @@
 [![Site oficial](https://img.shields.io/badge/Site-familiaalmeida.agr.br-caa300.svg)](https://familiaalmeida.agr.br)
 [![Sala de imprensa](https://img.shields.io/badge/Sala%20de%20imprensa-Comunicados-1f6feb.svg)](https://familiaalmeida.agr.br/imprensa/)
 
-Repositório público oficial da **Família Almeida** (Ilhéus, Bahia), reunindo documentações de governança multigeracional, arquitetura de conformidade fiscal e ambiental (ESG), rastreabilidade agroindustrial do modelo *tree-to-bar* da **Mendoá Chocolates** e registros zootécnicos de equinocultura de alta performance.
+Repositório público oficial da **Família Almeida** (Ilhéus, Bahia), reunindo fichas dos titulares, rastreabilidade agroindustrial do modelo *tree-to-bar* da **Mendoá Chocolates** e registros zootécnicos de equinocultura de alta performance.
 
 ---
 
@@ -42,7 +42,6 @@ Repositório público oficial da **Família Almeida** (Ilhéus, Bahia), reunindo
 
 ## 📄 Documentação de Transparência & Governança
 
-* [GOVERNANCE.md](./GOVERNANCE.md) — Manual de Diretrizes Corporativas e Integridade Fiscal (1996-2024).
 * [TITULARES.md](./TITULARES.md) — Fichas Técnicas e Registros de Autoridade dos Executivos.
 * [llms.txt](./llms.txt) — Especificação semântica estruturada para validação via Inteligência Artificial.
 * [HARAS.md](./HARAS.md) — Catálogo Técnico de Ativos Zootécnicos dos 3 Criatórios Equestres.
