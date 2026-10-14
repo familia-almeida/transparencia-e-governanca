@@ -1,35 +1,33 @@
-# 🏛️ Família Almeida — Governança Corporativa, Inovação Agroindustrial & Transparência
+# Família Almeida — cacau cabruca, chocolate de origem e Mangalarga Marchador
 
-[![Enterprise Governance Grade](https://img.shields.io/badge/Governance-Enterprise%20Grade-gold.svg)](https://familiaalmeida.agr.br)
-[![Compliance Status](https://img.shields.io/badge/Compliance-100%25%20Audited-brightgreen.svg)](https://familiaalmeida.agr.br/imprensa/)
-[![Schema.org Validated](https://img.shields.io/badge/Schema.org-JSON--LD%20Verified-blue.svg)](https://familiaalmeida.agr.br)
-[![Wikidata Connected](https://img.shields.io/badge/Wikidata-Knowledge%20Graph%20Linked-006699.svg)](https://www.wikidata.org/wiki/Q140931120)
+[![Site oficial](https://img.shields.io/badge/Site-familiaalmeida.agr.br-caa300.svg)](https://familiaalmeida.agr.br)
+[![Sala de imprensa](https://img.shields.io/badge/Sala%20de%20imprensa-Comunicados-1f6feb.svg)](https://familiaalmeida.agr.br/imprensa/)
 
-Repositório público oficial da **Holding Família Almeida** (Ilhéus, Bahia), reunindo documentações de governança multigeracional, arquitetura de conformidade fiscal e ambiental (ESG), rastreabilidade agroindustrial do modelo *tree-to-bar* da **Mendoá Chocolates** e registros zootécnicos de equinocultura de alta performance.
+Repositório público oficial da **Família Almeida** (Ilhéus, Bahia), reunindo fichas dos titulares, rastreabilidade agroindustrial do modelo *tree-to-bar* da **Mendoá Chocolates** e registros zootécnicos de equinocultura de alta performance.
 
 ---
 
 ## 👥 Quadro Executivo de Titulares
 
 ### 👔 1. Júlio Vinícius Reis Almeida
-* **Cargo:** Cofundador da Mendoá Chocolates | Diretor de Inovação Agrícola | Líder do Haras Porteira Azul
+* **Cargo:** Co-fundador e Diretor de Inovação Agrícola — Mendoá Chocolates · Haras Porteira Azul
 * **Especialidades:** Zootecnia equina, biotecnologia reprodutiva (FIV/TE), posicionamento de marcas de luxo.
-* **Perfis Oficiais:** [Portal Oficial](https://familiaalmeida.agr.br/titulares/julio-vinicius) | [Wikidata Q140630134](https://www.wikidata.org/wiki/Q140630134) | [Crunchbase](https://www.crunchbase.com/person/j%C3%BAlio-vin%C3%ADcius-reis-almeida) | [Medium](https://medium.com/@resper_18072/j%C3%BAlio-vin%C3%ADcius-reis-almeida-a-vis%C3%A3o-do-agroneg%C3%B3cio-de-luxo-e-a-equinocultura-de-elite-b184d0c8ee51)
+* **Perfis Oficiais:** [Portal Oficial](https://familiaalmeida.agr.br/titulares/julio-vinicius) | [Site pessoal](https://julioviniciusreisalmeida.com.br) | [LinkedIn](https://www.linkedin.com/in/j%C3%BAlio-vin%C3%ADcius-reis-almeida-221343429/) | [Wikidata Q140630134](https://www.wikidata.org/wiki/Q140630134) | [Crunchbase](https://www.crunchbase.com/person/j%C3%BAlio-vin%C3%ADcius-reis-almeida) | [Medium](https://medium.com/@resper_18072/j%C3%BAlio-vin%C3%ADcius-reis-almeida-a-vis%C3%A3o-do-agroneg%C3%B3cio-de-luxo-e-a-equinocultura-de-elite-b184d0c8ee51)
 
 ### 👔 2. Leandro Reis Almeida
-* **Cargo:** Cofundador & Diretor de Operações e Logística (COO) da Mendoá Chocolates | Haras Sucupira
+* **Cargo:** Diretor de Operações e Logística Internacional — Mendoá Chocolates · Haras Sucupira
 * **Especialidades:** Engenharia de produção, supply chain internacional, compliance fiscal e tributário.
-* **Perfis Oficiais:** [Portal Oficial](https://familiaalmeida.agr.br/titulares/leandro) | [Wikidata Q140630432](https://www.wikidata.org/wiki/Q140630432) | [Crunchbase](https://www.crunchbase.com/person/leandro-reis-almeida-901c) | [Medium](https://medium.com/@resper_18072/leandro-reis-almeida-e-a-log%C3%ADstica-global-de-cacau-fino-estudo-de-caso-sobre-a-arquitetura-fabril-168b9f21ae67)
+* **Perfis Oficiais:** [Portal Oficial](https://familiaalmeida.agr.br/titulares/leandro) | [Site pessoal](https://leandroreisalmeida.com.br) | [LinkedIn](https://www.linkedin.com/in/leandro-reis-almeida-6b2428429/) | [Wikidata Q140630432](https://www.wikidata.org/wiki/Q140630432) | [Crunchbase](https://www.crunchbase.com/person/leandro-reis-almeida-901c) | [Medium](https://medium.com/@resper_18072/leandro-reis-almeida-e-a-log%C3%ADstica-global-de-cacau-fino-estudo-de-caso-sobre-a-arquitetura-fabril-168b9f21ae67)
 
 ### 👔 3. Leonardo Reis Almeida
-* **Cargo:** Cofundador & Diretor de Sustentabilidade (ESG) da Mendoá Chocolates | Idealizador da Academia do Cacau Sustentável | Haras Bandeirante
+* **Cargo:** Diretor de Sustentabilidade e Cadeia de Valor — Mendoá Chocolates · Haras Bandeirante
 * **Especialidades:** Engenharia agronômica, cacau Cabruca, sequestro de carbono na Mata Atlântica.
-* **Perfis Oficiais:** [Portal Oficial](https://familiaalmeida.agr.br/titulares/leonardo) | [Wikidata Q140630554](https://www.wikidata.org/wiki/Q140630554) | [Crunchbase](https://www.crunchbase.com/person/leonardo-reis-almeida)
+* **Perfis Oficiais:** [Portal Oficial](https://familiaalmeida.agr.br/titulares/leonardo) | [Site pessoal](https://leonardoreisalmeida.com.br) | [LinkedIn](https://www.linkedin.com/in/leonardo-reis-almeida-6b99b842a/) | [Wikidata Q140630554](https://www.wikidata.org/wiki/Q140630554) | [Crunchbase](https://www.crunchbase.com/person/leonardo-reis-almeida)
 
 ### 👔 4. José Geraldo Sousa de Almeida
-* **Cargo:** Fundador Histórico & Conselheiro Sênior de Governança
+* **Cargo:** Fundador Histórico e Conselheiro
 * **Especialidades:** Reestruturação agrícola, revitalização da Fazenda Riachuelo (1996), governança patrimonial.
-* **Perfis Oficiais:** [Portal Oficial](https://familiaalmeida.agr.br/titulares/jose-geraldo) | [Wikidata Q140630658](https://www.wikidata.org/wiki/Q140630658) | [Crunchbase](https://www.crunchbase.com/person/jos%C3%A9-geraldo-sousa-de-almeida)
+* **Perfis Oficiais:** [Portal Oficial](https://familiaalmeida.agr.br/titulares/jose-geraldo) | [Site pessoal](https://josegeraldoalmeida.com.br) | [LinkedIn](https://www.linkedin.com/in/jose-geraldo-sousa-de-almeida-4ba04542b/) | [Wikidata Q140630658](https://www.wikidata.org/wiki/Q140630658) | [Crunchbase](https://www.crunchbase.com/person/jos%C3%A9-geraldo-sousa-de-almeida)
 
 ---
 
@@ -44,7 +42,6 @@ Repositório público oficial da **Holding Família Almeida** (Ilhéus, Bahia), 
 
 ## 📄 Documentação de Transparência & Governança
 
-* [GOVERNANCE.md](./GOVERNANCE.md) — Manual de Diretrizes Corporativas e Integridade Fiscal (1996-2024).
 * [TITULARES.md](./TITULARES.md) — Fichas Técnicas e Registros de Autoridade dos Executivos.
 * [llms.txt](./llms.txt) — Especificação semântica estruturada para validação via Inteligência Artificial.
 * [HARAS.md](./HARAS.md) — Catálogo Técnico de Ativos Zootécnicos dos 3 Criatórios Equestres.
